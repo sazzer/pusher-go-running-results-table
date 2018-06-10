@@ -2,6 +2,8 @@
 
 This is an example of using Pusher Channels to create a real-time updated data table in React and Go.
 
+[View tutorial](https://pusher.com/tutorials/realtime-data-table-react-go)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
