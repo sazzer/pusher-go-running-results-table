@@ -12,7 +12,7 @@ type Notifier struct {
 
 func notifier(database *db.Database, notifyChannel <-chan bool) {
 	client := pusher.Client{
-		AppId:   "PUSHER_APP_ID",
+		AppID:   "PUSHER_APP_ID",
 		Key:     "PUSHER_KEY",
 		Secret:  "PUSHER_SECRET",
 		Cluster: "PUSHER_CLUSTER",
